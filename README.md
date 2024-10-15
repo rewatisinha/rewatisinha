@@ -35,4 +35,4 @@ I am a Microsoft Azure Certified Data Scientist with over 10 years of experience
 - GitHub: [rewatisinha](https://github.com/rewatisinha)
 
 ## ⚡ Fun Fact
-I love gardening, home decorating, and I recently participated in a pageant to boost my confidence and inspire others!
+I love gardening, home decorating, and I recently participated in a pageant to boost my confidence!
