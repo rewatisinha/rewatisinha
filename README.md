@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a Microsoft Azure Certified Data Scientist with over 10 years of experience specializing in Data Science, Analytics, and Business Intelligence in the Finance and Education sectors. I’m passionate about deploying machine learning models, working with large-scale cloud infrastructures, and utilizing AI to drive business solutions.
 
-- 💼 I recently worked as a **Data Scientist II** at Trellance, where I led several impactful projects in machine learning, generative AI, and customer segmentation.
+- 💼 As a Data Scientist II at Trellance, I have led impactful projects in machine learning, generative AI, and customer segmentation, delivering solutions that drive business outcomes.
 - 🌐 I specialize in cloud platforms like **Azure**, **Snowflake**, and tools like **Dataiku**, **Power BI**, and **Tableau**.
 - 🔍 I have hands-on experience with a variety of machine learning techniques such as clustering, classification, and time series analysis.
 - 📊 Strong in SQL, Python, and R, with a knack for optimizing data pipelines and deploying advanced data models.
